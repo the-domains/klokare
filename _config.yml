@@ -2,6 +2,7 @@ name: klokare
 favicon: null
 layout_spectrum: 0.18947089253924787
 typography_spectrum: 0.36623109434731305
+title: klokare software
 cta:
   domain: null
   bucket: null
