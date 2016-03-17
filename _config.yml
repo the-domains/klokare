@@ -1,0 +1,28 @@
+name: klokare
+favicon: null
+layout_spectrum: 0.18947089253924787
+typography_spectrum: 0.36623109434731305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11044479603879154
+  lightness: 0.3901280923746526
+  saturation: 0.9203045140020549
+  rhythmicContrast: 0.17662302101962268
+purpose: []
